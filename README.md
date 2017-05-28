@@ -11,7 +11,7 @@ Steps:
 
 -Click Load unpacked Extension and select the folder.
 
--Go to the wikipedia page of Donald Trump and enjoy and see if its working :D!!
+-Go to the wikipedia page of Donald Trump see if its working :D!!
 
 
 *To change the words or strings of your choice to another, make changes to the replace.js file accordingly, reload the chrome://extensions/ page and you are good to go.

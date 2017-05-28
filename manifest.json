@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+
+  "name": "Find And Replace",
+  "description": "This extension finds any particular string on the website and changes it with another",
+  "version": "1.0",
+
+  "content_scripts": [ {
+        "js": ["replace.js" ],
+        "matches": [ "<all_urls>" ],
+        "run_at": "document_end"
+    } ],
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "gogo.html"
+  },
+  "permissions": [
+    "activeTab",
+    "https://ajax.googleapis.com/"
+  ]
+}

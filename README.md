@@ -1,5 +1,5 @@
 # Chrome-extension-FindAndReplace
-It is chrome extension that can find and replace any word (or a string of words) on any website with whatever you want.
+It is chrome extension that can find and replace any word (or a string of words) on any website with whatever you want. For ex - by default after adding the extension to your chrome, open the wiki page of Donald Trump and you will find the string "Donald Trump" replaced with "Crime master gogo" all over the page ;)
 
 Steps:
 

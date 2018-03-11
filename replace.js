@@ -6,7 +6,8 @@ function replaceText(parent){
 			var str1 = node.nodeValue;
 //changes strings 'Donald Trump' and 'Mr. Trump' with 'Crime master Gogo'
 			var str2 = str1.replace(/Rahul Gandhi|rahul gandhi/g, 'Apna PAPPU');
-			node.nodeValue = str2;
+			var str3 = str2.replace(/Gandhi|Mr. Gandhi/g, 'Pappu');
+			node.nodeValue = str3;
 		}
 		else if(node.nodeType == 1){
 			replaceText(node);

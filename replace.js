@@ -4,7 +4,7 @@ function replaceText(parent){
 		node = childnodes[i];
 		if(node.nodeType == 3){
 			var str1 = node.nodeValue;
-//changes strings 'Donald Trump' and 'Mr. Trump' with 'Crime master Gogo'
+//changes strings 'Rahul Gandhi' with 'Apna PAPPU'
 			var str2 = str1.replace(/Rahul Gandhi|rahul gandhi/g, 'Apna PAPPU');
 			var str3 = str2.replace(/Gandhi|Mr. Gandhi/g, 'Pappu');
 			node.nodeValue = str3;

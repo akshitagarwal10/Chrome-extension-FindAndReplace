@@ -1,5 +1,5 @@
 # Chrome-extension-FindAndReplace
-It is chrome extension that can find and replace any word (or a string of words) on any website with whatever you want.   For ex - by default after adding the extension to your chrome, open the wiki page of Rahul Gandhi and you will find the string "Rahul Gandhi" replaced with "Apna PAPPU" all over the page, it works everywhere : like on google search results. ;)
+It is chrome extension that can find and replace any word (or a string of words) on any website with whatever you want.   For ex - by default after adding the extension to your chrome, open the wiki page of Rahul Gandhi and you will find the string "Rahul Gandhi" replaced with "Apna PAPPU" all over the page, it works everywhere : like on google search results etc. ;)
 
 Steps:
 

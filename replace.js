@@ -1,6 +1,6 @@
 function replaceText(parent){
 	var childnodes = parent.childNodes;
-	for(var i=0; i<parent.childNodes.length; i++){
+	for(var i=0; i<childnodes.length; i++){
 		node = childnodes[i];
 		if(node.nodeType == 3){
 			var str1 = node.nodeValue;
